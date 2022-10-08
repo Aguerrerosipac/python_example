@@ -47,8 +47,10 @@ git checkout main
 ''''''
 
 '''''
-git merge develop
-''''''
+git merge develop 
+''''''  #para este ejemplo el develop es la rama que contiene los cambios a integrar.
+
+
 
 
 
