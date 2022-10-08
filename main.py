@@ -13,6 +13,9 @@ class calculadora:
 
     def mult(self):
         return self.A * self.B
+
+    def div(self):
+        return self.A / self.B
     
 calc= calculadora(19,3)
 print(calc.sumar())
