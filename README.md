@@ -40,6 +40,16 @@ Para ver en que rama estoy desde la terminal:
 git branch
 '''''
 
+Cuando ya estoy segura de enviar los cambios que he realizado y lo quiero enviar al main:
+
+'''' 
+git checkout main
+''''''
+
+'''''
+git merge develop
+''''''
+
 
 
 
