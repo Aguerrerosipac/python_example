@@ -10,6 +10,9 @@ class calculadora:
     
     def restar(self):
         return self.A - self.B
+
+    def mult(self):
+        return self.A * self.B
     
 calc= calculadora(19,3)
 print(calc.sumar())
